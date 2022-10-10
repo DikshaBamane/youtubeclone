@@ -1,0 +1,39 @@
+.huro{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}
+.headerbutoons{
+    margin-top: 4rem;
+}
+.home{
+    
+    display: flex;
+    justify-content: flex-start;
+}
+.myicon{
+    font-size: 30px !important;
+    color: red;
+}
+.myicon1{
+    font-size: 35px !important;
+}
+.main{
+    background-color: rgb(250, 251, 252);
+}
+.btn1{
+    background-color:white;
+    border-color: aliceblue;
+}
+.btn2{
+    background-color:white;
+    border-color: aliceblue;
+    border-radius: 50%;
+}
+button{
+    color: black;
+    border: 2px solid #e7e7e7;
+    border-radius: 12px;
+    
+}
